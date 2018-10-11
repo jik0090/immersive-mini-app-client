@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Header from './Header/Header';
-import SearchBar from './Main/SearchBar';
+import Main from './Main/Main';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faCamera, faEllipsisH, faEllipsisV, faSearch } from '@fortawesome/free-solid-svg-icons'
 
@@ -12,7 +12,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-        <SearchBar />
+        <Main />
       </div>
     );
   }
