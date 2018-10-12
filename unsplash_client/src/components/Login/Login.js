@@ -9,7 +9,7 @@ class Login extends Component {
               <FontAwesomeIcon icon='camera' size='4x' /><br />
               <span>Login</span><br />
               <span>Welcome back</span><br />
-              <button><FontAwesomeIcon icon='comment-dots' size='2x' />Login with Kakao Talk</button><br />
+              <button><FontAwesomeIcon icon='comment-dots' size='2x' />Login with KakaoTalk</button><br />
               <span>OR</span><br />
               <span>Email address</span><br />
               <input type='text' /><br />
