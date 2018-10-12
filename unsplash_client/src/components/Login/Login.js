@@ -15,7 +15,7 @@ class Login extends Component {
               <input type='text' /><br />
               <span>Password</span><br />
               <input type='text' /><br />
-              <button>Login</button><br />
+              <Link to='/'>Login</Link><br />
               <span>Don't have an accout?<Link to='/join'>Join</Link></span>
             </div>
         );
